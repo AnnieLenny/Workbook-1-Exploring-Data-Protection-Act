@@ -1,5 +1,5 @@
 # Workbook 1: Exploring Data Protection, GDPR, Freedom of Information & Computer Misuse Act
-
+ Also explored Excel and and their functions.
 ## Overview
 
 In **Workbook 1**, we explore various critical aspects of **Data Protection**, including the **GDPR** (General Data Protection Regulation), **Freedom of Information**, and the **Computer Misuse Act**. Alongside this, we work on analyzing **sales data** using **Excel** functionalities to gain deeper insights into the data. 📊🔍
